@@ -1,7 +1,7 @@
 # Simon
 Simon Web Application Project
 
-##What Am I Learning?
+## What Am I Learning?
 The deployment script: ./deployFiles.sh -k ~/CS260/TannerChildKey.pem -h tannerchild.com -s simon
 
 First, I became much more comfortable using git and github to
